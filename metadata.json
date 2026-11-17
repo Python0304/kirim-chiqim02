@@ -1,0 +1,6 @@
+{
+  "name": "Hisobim",
+  "description": "Kundalik kirim-chiqim, mahsulotlar ro'yxati, rejalar, qarzlar, hayriya va oylik/yillik hisobotlar ilovasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
